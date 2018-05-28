@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="wf_element_activity">
+    <wf_element_activity action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <attributes/>
+        <base_provider display_value="Powershell">59155499eb512100b2f88a7af106feae</base_provider>
+        <category/>
+        <checked_out_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</checked_out_by>
+        <default_height/>
+        <default_width/>
+        <description/>
+        <image>images/heisenberg_icons/workflow_ie8/provider_powershell.png</image>
+        <input_meta/>
+        <input_process_script/>
+        <input_transform>{"source":"","script_type":"command","command":"","midScriptFile":"","powershellVariables":"[]","use_mid_service_account":"false","credential_tag":"","midCapabilities":"427709a60a0006bc7d2904e99132532d"}</input_transform>
+        <local_variables/>
+        <name>TestPwShell</name>
+        <output_meta/>
+        <output_process_script/>
+        <output_transform/>
+        <processing_script/>
+        <sample_payloads>{}</sample_payloads>
+        <short_description/>
+        <style/>
+        <sys_class_name>wf_element_activity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-27 06:05:49</sys_created_on>
+        <sys_id>d663c344db2103006c5bde90cf961963</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TestPwShell</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>wf_element_activity_d663c344db2103006c5bde90cf961963</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-27 06:05:49</sys_updated_on>
+        <version_container_id>6d548744db2103006c5bde90cf961927</version_container_id>
+    </wf_element_activity>
+    <sys_translated_text action="delete_multiple" query="documentkey=d663c344db2103006c5bde90cf961963"/>
+    <wf_versionable action="INSERT_OR_UPDATE">
+        <checked_out>2017-09-27 06:05:49</checked_out>
+        <checked_out_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</checked_out_by>
+        <published>false</published>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-27 06:05:49</sys_created_on>
+        <sys_id>69548744db2103006c5bde90cf961928</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-27 06:05:49</sys_updated_on>
+        <valid_from/>
+        <valid_to/>
+        <version>1</version>
+        <version_container_id>6d548744db2103006c5bde90cf961927</version_container_id>
+        <wf_element_definition display_value="TestPwShell">d663c344db2103006c5bde90cf961963</wf_element_definition>
+    </wf_versionable>
+</record_update>
